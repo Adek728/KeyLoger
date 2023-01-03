@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "KeyLogger/src/Libs/jnativehook-2.1.0.jar"
+    ]
+}
